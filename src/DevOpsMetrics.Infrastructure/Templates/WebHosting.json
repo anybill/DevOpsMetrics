@@ -7,7 +7,7 @@
     },
     "hostingPlanSKUName": {
       "type": "string",
-      "defaultValue": "D1",
+      "defaultValue": "S1",
       "allowedValues": [
         "D1",
         "S1",
